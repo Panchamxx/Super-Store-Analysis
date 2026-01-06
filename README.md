@@ -42,7 +42,7 @@ This project analyzes the **Superstore sales dataset** to uncover sales trends, 
 
 ## Dashboard
 - **PBIX file**: `Super Store Dashboard.pbix`
-- **Screenshots**: See Dashboard Screenshot folder
+- **Screenshots**: See Dashboard folder
 - Dashboard features:
   - Interactive slicers for region
   - Key sales, profit, and quantity visualizations
